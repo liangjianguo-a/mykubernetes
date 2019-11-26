@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/etcd-amd64:3.1.12
+FROM gcr.io/google_containers/etcd-amd64:3.3.10
 MAINTAINER liangjianguo-a
 
