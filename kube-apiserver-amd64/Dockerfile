@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.10.1
-MAINTAINER goser
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.14.8
+MAINTAINER liangjianguo-a
